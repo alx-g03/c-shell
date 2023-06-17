@@ -1,0 +1,3 @@
+OUT
+cabina dus,2
+wc,1

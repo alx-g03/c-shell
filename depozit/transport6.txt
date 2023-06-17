@@ -1,0 +1,3 @@
+OUT
+cizme,8
+manusi,8

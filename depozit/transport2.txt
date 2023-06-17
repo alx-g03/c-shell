@@ -1,0 +1,4 @@
+IN
+beton,5
+caramida,10
+gresie,2

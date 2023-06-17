@@ -1,0 +1,3 @@
+OUT
+gratar,13
+scaun gradina,4

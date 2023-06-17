@@ -1,0 +1,5 @@
+IN
+masa plianta,23
+pvc,7
+saltea,1
+pat pliant,2
